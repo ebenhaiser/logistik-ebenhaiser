@@ -1,6 +1,6 @@
 <div class="card">
     <div class="card-header">
-        <h3>Daftar Barang Masuk</h3>
+        <h3>Daftar Barang</h3>
     </div>
     <div class="card-body">
         <div class="col-md-6 mb-3">
